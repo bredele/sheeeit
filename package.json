@@ -1,0 +1,16 @@
+{
+  "name": "sheeeit",
+  "version": "0.0.0",
+  "description": "sheeeit",
+  "main": "index.js",
+  "scripts": {
+    "test": "sheeeit"
+  },
+  "repository": "",
+  "author": "Olivier Wietrich",
+  "license": "BSD",
+  "readmeFilename": "Readme.md",
+  "dependencies": {
+    "play": "~0.5.0"
+  }
+}
